@@ -23,8 +23,8 @@ spring:
 aliyun:
   vod:
     file:
-      accessKeyId: LTAI5tSqKHYAMTap3974FmHH # 访问身份验证中用到用户标识
-      accessKeySecret: PHQoaFaVJWuVaoVTXoyDzIKVwxnkSV # 用户用于加密签名字符串和oss用来验证签名字符串的密钥
+      accessKeyId:  # 访问身份验证中用到用户标识
+      accessKeySecret: # 用户用于加密签名字符串和oss用来验证签名字符串的密钥
 
 
 
